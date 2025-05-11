@@ -1,0 +1,6 @@
+server will connect with mongoose and mongoose will connect with database.
+
+cluster -> group of databases -> an isolated environment
+used database from mongodb atlas
+username -> admin
+pass -> Kedar@7261
